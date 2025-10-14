@@ -1,18 +1,16 @@
-# 👋 Welcome to Vision CSE  
+DAY 1
+   SOLVED QUESTIONS LINKS(LEETCODE)
+   -> https://leetcode.com/problems/sort-colors/submissions/1801270128
+   -> https://leetcode.com/problems/sort-colors/submissions/1801264920
+   -> https://leetcode.com/problems/koko-eating-bananas/submissions/1801336428
+   -> https://leetcode.com/problems/number-of-provinces/submissions/1801764420
 
-This repository is for the **15 Days of Code Challenge** organized by **Vision CSE** 🚀  
+   SOLVED QUESTIONS SCREENSHOT(GFG)
+   <img width="1919" height="897" alt="image" src="https://github.com/user-attachments/assets/12439af2-c769-4288-b901-5138bee16867" />
+   <img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/d6a53f17-fe69-4b0b-971d-b1ef57dd560d" />
 
-## 📌 About the Challenge
-- Duration: **15 Days**
-- Goal: Code every day and build consistency  
-- Task: Fork this repository, and update your progress here!  
 
-## ✅ How to Participate
-1. **Fork** this repository.  
-2. **Edit this README** file in your fork.  
-3. Document your progress daily:  
-   - Add a short note on what you did  
-   - Attach screenshots or  
-   - Add links to your code submissions/projects  
+   -> STUDY GRAPH BASICS 
+   -> REVISE SORTING ALGORITHMS(BUBBLE,MERGE,INSERTION,SELECTION)
 
-4. Keep pushing your changes every day!  
+   
