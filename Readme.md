@@ -16,4 +16,7 @@ DAY 1
    -> STUDY GRAPH BASICS 
    -> REVISE SORTING ALGORITHMS(BUBBLE,MERGE,INSERTION,SELECTION)
 
-   
+DAY 2
+    SOLVED QUESTIONS LINKS(LEETCODE)
+    -> https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/submissions/1802723524
+    -> https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/submissions/1802642659
