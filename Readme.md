@@ -20,3 +20,22 @@ DAY 2
     SOLVED QUESTIONS LINKS(LEETCODE)
     -> https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/submissions/1802723524
     -> https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/submissions/1802642659
+
+
+DAY 3 AND 4 --> I DID NOT STUDY ANYTHING DUE TO TRAVEL.
+
+
+DAY 5 
+   SOLVED QUESTIONS LINKS(LEETCODE)
+   ->https://leetcode.com/problems/construct-string-with-repeat-limit/submissions/1805177178
+   -->https://leetcode.com/problems/boats-to-save-people/submissions/1804872181
+   -->https://leetcode.com/problems/maximum-units-on-a-truck/submissions/1804865092
+
+   SOLVED QUESTIONS SCREENSHOT(GFG)
+   <img width="1919" height="899" alt="Screenshot 2025-10-18 211838" src="https://github.com/user-attachments/assets/ad96891e-2e46-4420-8b9d-79c5927f9ba0" />
+
+   --> STUDY DOT BATCH(WEBD) LECTURE 2 BASED ON HTML
+
+
+
+   
