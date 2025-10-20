@@ -36,6 +36,23 @@ DAY 5
 
    --> STUDY DOT BATCH(WEBD) LECTURE 2 BASED ON HTML
 
+   
+
+DAY 6
+   --> TAKE PART IN CONTEST OF LEETCODE 
+   
+   SOLVED QUESTIONS LINKS(LEETCODE)
+   -->https://leetcode.com/problems/rabbits-in-forest/submissions/1805621989
+   -->https://leetcode.com/problems/smallest-missing-multiple-of-k/submissions/1805778268
+   -->https://leetcode.com/problems/longest-balanced-subarray-i/submissions/1805788535
+
+   SOLVED QUESTIONS SCREENSHOT(GFG)
+   <img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/0401a4e0-b5d8-4f79-ad41-0082a8a47329" />
+
+
+   
+
+
 
 
    
