@@ -50,7 +50,11 @@ DAY 6
    <img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/0401a4e0-b5d8-4f79-ad41-0082a8a47329" />
 
 
-   
+
+DAY 7(DIWALI 20/10/2025)
+   SOLVED QUESTIONS(LEETCODE)
+   <img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/c6c5660e-36c4-4b1b-a719-72bf7e55352e" />
+
 
 
 
