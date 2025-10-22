@@ -56,6 +56,14 @@ DAY 7(DIWALI 20/10/2025)
    <img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/c6c5660e-36c4-4b1b-a719-72bf7e55352e" />
 
 
+DAY 8 
+   SOLVED QUESTIONS LINK(LEETCODE)
+   -->https://leetcode.com/problems/min-stack/submissions/1807688493
+   -->https://leetcode.com/problems/min-stack/submissions/1807628693
+   -->https://leetcode.com/problems/non-overlapping-intervals/submissions/1807620357
+   -->https://leetcode.com/problems/merge-intervals/submissions/1807552798
+   
+
 
 
 
