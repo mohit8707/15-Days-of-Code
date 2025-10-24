@@ -62,7 +62,22 @@ DAY 8
    -->https://leetcode.com/problems/min-stack/submissions/1807628693
    -->https://leetcode.com/problems/non-overlapping-intervals/submissions/1807620357
    -->https://leetcode.com/problems/merge-intervals/submissions/1807552798
-   
+
+DAY 9 (22/10/2025)
+   SOLVED QUESTIONS LINK (LEETCODE)
+   -->https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/submissions/1808283058
+   -->https://leetcode.com/problems/sliding-window-median/submissions/1808726758
+
+   SOLVED QUESTION SCREENSHOT(GFG)
+   <img width="1912" height="836" alt="image" src="https://github.com/user-attachments/assets/21b0d112-82c2-4242-9239-154da5b4eddf" />
+
+DAY 10(23/10/2025) 
+   -->  I DID NOT STUDY ANYTHING DUE TO BHAIDOOJ.
+
+DAY 11 (24/102025)
+
+
+
 
 
 
