@@ -74,9 +74,25 @@ DAY 9 (22/10/2025)
 DAY 10(23/10/2025) 
    -->  I DID NOT STUDY ANYTHING DUE TO BHAIDOOJ.
 
-DAY 11 (24/102025)
+DAY 11 (24/10/2025)
+   SOLVED QUESTIONS LINK(LEETCODE)
+   -->https://leetcode.com/problems/lemonade-change/submissions/1810006451
 
+DAY 12 (25/10/2025)
+   SOLVED QUESTIONS LINK(LEETCODE)
+   -->https://leetcode.com/problems/power-of-two/submissions/1811309172
+   -->https://leetcode.com/problems/power-of-two/submissions/1811316127
+   -->https://leetcode.com/problems/jump-game-ii/submissions/1811291411
+   -->https://leetcode.com/problems/jump-game/submissions/1811243559
+   -->https://leetcode.com/problems/valid-parenthesis-string/submissions/1811219472
+   -->https://leetcode.com/problems/valid-parenthesis-string/submissions/1811225094
+   -->https://leetcode.com/problems/two-sum-iv-input-is-a-bst/submissions/1811183945
+   -->https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1811163661
+   -->https://leetcode.com/problems/design-twitter/submissions/1811044230
 
+DAY 13(26/10/2025)
+   SOLVED QUESTIONS LINK(LEETCODE)
+   -->
 
 
 
