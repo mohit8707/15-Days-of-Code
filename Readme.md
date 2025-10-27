@@ -92,6 +92,19 @@ DAY 12 (25/10/2025)
 
 DAY 13(26/10/2025)
    SOLVED QUESTIONS LINK(LEETCODE)
+   -->https://leetcode.com/problems/flood-fill/submissions/1811905353
+   -->https://leetcode.com/problems/find-center-of-star-graph/submissions/1811958392
+   -->https://leetcode.com/problems/keys-and-rooms/submissions/1811979768
+   -->https://leetcode.com/problems/clone-graph/submissions/1812018383
+   -->https://leetcode.com/problems/coloring-a-border/submissions/1812104053
+   -->https://leetcode.com/problems/number-of-islands/submissions/1812249085
+   -->https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/1812377727
+   -->https://leetcode.com/problems/rotting-oranges/submissions/1812435760
+   -->https://leetcode.com/problems/01-matrix/submissions/1812477710
+
+
+DAY 14(27/10/2025)
+   SOLVED QUESTIONS LINK(LEETCODE)
    -->
 
 
