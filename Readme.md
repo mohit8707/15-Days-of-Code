@@ -105,6 +105,17 @@ DAY 13(26/10/2025)
 
 DAY 14(27/10/2025)
    SOLVED QUESTIONS LINK(LEETCODE)
+   -->https://leetcode.com/problems/course-schedule/submissions/1813322263
+   -->https://leetcode.com/problems/course-schedule-ii/submissions/1813310786
+   -->https://leetcode.com/problems/shortest-bridge/submissions/1812951816
+   -->https://leetcode.com/problems/surrounded-regions/submissions/1812868927
+
+
+DAY 15(28/10/2025)
+   SOLVED QUESTIONS LINK(LEETCODE)
+   -->
+   -->
+   -->
    -->
 
 
