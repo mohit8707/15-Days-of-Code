@@ -113,10 +113,12 @@ DAY 14(27/10/2025)
 
 DAY 15(28/10/2025)
    SOLVED QUESTIONS LINK(LEETCODE)
-   -->
-   -->
-   -->
-   -->
+   -->https://leetcode.com/problems/min-cost-to-connect-all-points/submissions/1814216238
+   -->https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/submissions/1813825016
+   -->https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/submissions/1813795204
+
+
+DAY 16(29/10/2025)
 
 
 
