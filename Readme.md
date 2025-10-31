@@ -119,7 +119,12 @@ DAY 15(28/10/2025)
 
 
 DAY 16(29/10/2025)
-
+   SOLVED QUESTIONS LINK(LEETCODE)
+   -->https://leetcode.com/problems/n-th-tribonacci-number/submissions/1815352559
+   -->https://leetcode.com/problems/unique-paths-ii/submissions/1815348474
+   -->https://leetcode.com/problems/unique-paths/submissions/1815204762
+   -->https://leetcode.com/problems/min-cost-climbing-stairs/submissions/1815100232
+   -->https://leetcode.com/problems/fibonacci-number/submissions/1815010728
 
 
 
